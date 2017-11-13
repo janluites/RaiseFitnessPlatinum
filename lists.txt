@@ -7,7 +7,7 @@
 # == Token should be in brackets ' ' == #
 
 
-token = '450826782:AAHuBdN1dgPpkWIzA8SI0y7rPpmk356qIKc'        # (Fitness Admin Bot Token: '450826782:AAHuBdN1dgPpkWIzA8SI0y7rPpmk356qIKc')
+token = '449351703:AAH8QYEPirudAyftsMGy6LutPT-M65I0Opc'        # (Fitness Admin Bot Token: '449351703:AAH8QYEPirudAyftsMGy6LutPT-M65I0Opc')
 
 
 # =============================== #
@@ -20,7 +20,7 @@ admin = 395511055             # jan: 395511055
 
 # == Chat ID == #
 
-chat_id = -0 
+chat_id = -1001329843540 
 
 
 # =============================== #

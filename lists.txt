@@ -53,7 +53,7 @@ ROUNDS_ID = {}
 
 
 rules = """\xF0\x9F\x93\x8C Group Rules \xF0\x9F\x93\x8C\n
-Welcome to RaiseFluence \xF0\x9F\x91\x8B\n
+Welcome to RaiseFitnessPlatinumBot \xF0\x9F\x91\x8B\n
 This group will be an Auto-Round Group\n
 \xE2\x9D\x97\xE2\x9D\x97 NEW USERS: MUST-READ BELOW \xE2\x9D\x97\xE2\x9D\x97\n
 The group will be ran by a bot programmed to:\n
@@ -66,7 +66,7 @@ The group will be ran by a bot programmed to:\n
 ⁃R2: 14:30 Amsterdam time (CET)
 ⁃R3: 20:30 Amsterdam time (CET)\n
 *Make sure that you’re in the chat at least 10-15 minutes before the round starts as scheduled.\n
-\xF0\x9F\x94\xB4 DO NOT POST AFTER THE ROUND HAS STARTED 	\xF0\x9F\x94\xB4\n
+\xF0\x9F\x94\xB4 DO NOT POST AFTER THE ROUND HAS STARTED   \xF0\x9F\x94\xB4\n
 HOW TO PARTICIPATE:\n
 \xF0\x9F\x92\xA2 NEW MEMBERS: private message the bot your Instagram username like this “@username” to save your 
 username and to send it out for others to like and comment.\n
@@ -77,8 +77,10 @@ You will use the list gathered by the bot and start from top to bottom.\n
 \xE2\x9D\xA4\xF0\x9F\x92\xAC Like + Comment (4+ words minimum related to the picture, No one word comments) on recent 
 post they have until you finish returning all in the list.\n
 Depending on the amount of users participating in the round, you’ll have 60 minutes to complete the list\n
-\xF0\x9F\x94\xB4 if you miss a user, you will get a warning point. You have 5 warning points until you get banned. 
-Unban fee: $50\n
+\xF0\x9F\x94\xB4 if you miss a user, you will get a warning point. You have 5 warning points until you get banned.\n
+If you completed the list you will get 1 bonus point. The more points you have - the higher you will be in the list dropped at Stage 2.\n
+All bonus points get reset every 2 weeks.\n
+Unban fee: $30\n
 When you’ve complete the list, you’re all set! No need to comment D. \xF0\x9F\x99\x8C\n
 Here are some commands you can private chat to the bot and not in the chat:\n
 /list - list of people participating\n
@@ -95,4 +97,4 @@ require any credentials, the bot will point out the users not engaging.\xF0\x9F\
 ⁃NO SCAMMING\n
 We want to grow this community as big as possible with the highest quality of users! Lets have fun!\n
 For any questions then message the admins:\n
-@Janluitesfitness1"""
+@Allesandrovictor"""

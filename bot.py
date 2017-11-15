@@ -510,8 +510,8 @@ def handle_text(message):
         members = message.new_chat_members
         for tlgrm_user in members:
             add_user(tlgrm_user.id)
-            text = "Hello, %s!\nClick on @RaiseFitnessPlatinum and send me your Instagram username to join the game" % tlgrm_user.first_name
-            bot.send_message(chat_id, text, parse_mode='Markdown')
+            text = "Hello, %s!\nClick on @fitnessadmin1_bot and send me your Instagram username to join the game" % tlgrm_user.first_name
+            bot.send_message(chat_id, text)
             print tlgrm_user.id
 
 
